@@ -12,3 +12,8 @@ Fine-tuning: Once the data has been prepared, tokenized, and embedded, the next 
 Evaluation: After fine-tuning, the model must be evaluated on a separate test set to measure its performance. This involves calculating metrics such as accuracy, precision, recall, and F1 score, which indicate how well the model is able to answer questions correctly.
 
 Inference: Finally, the trained model can be used for inference on new spoken SQuAD datasets. Given a question and a passage of spoken text, the model can predict the most likely answer to the question.
+
+
+notebook Colab to run my script and the models have been saved on my google drive, i have shared the links on the report.
+
+if you have any questions, please contact me.
