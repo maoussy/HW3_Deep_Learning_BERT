@@ -14,7 +14,7 @@ Evaluation: After fine-tuning, the model must be evaluated on a separate test se
 Inference: Finally, the trained model can be used for inference on new spoken SQuAD datasets. Given a question and a passage of spoken text, the model can predict the most likely answer to the question.
 
 
-notebook Colab to run my script and the models have been saved on my google drive, i have shared the links on the report. 
+i have used notebook Colab to run my script and the models have been saved on my google drive, i have shared the links on the report. 
 link for the dataset https://drive.google.com/drive/folders/1QAwkoz5hJ2Dju1RuTXrzQvrfb0SzX437?usp=share_link
 
 
